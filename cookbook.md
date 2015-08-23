@@ -31,14 +31,14 @@ For each record in the dataset it is provided:
 
 For analysis purpose read into tables the data located in below files,
 
-features.txt
-activity_labels.txt
-subject_train.txt
-x_train.txt
-y_train.txt
-subject_test.txt
-x_test.txt
-y_test.txt
+- features.txt
+- activity_labels.txt
+- subject_train.txt
+- x_train.txt
+- y_train.txt
+- subject_test.txt
+- x_test.txt
+- y_test.txt
 
 Refer section 1-10 in File 'R_Analysis.R' for queries and code for analysis required in this assignment.
 
